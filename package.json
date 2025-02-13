@@ -11,6 +11,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+  "homepage": "https://a4rxn.github.io/COMP2156",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/a4rxn/COMP2156.git"
@@ -21,7 +22,6 @@
   "bugs": {
     "url": "https://github.com/a4rxn/COMP2156/issues"
   },
-  "homepage": "https://a4rxn.github.io/COMP2156",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
